@@ -1,5 +1,7 @@
 # Real Estate Django Web App
 
+[![Build Status](https://dev.azure.com/190030155/Demo/_apis/build/status/tejaswini14345.CDD-project?branchName=master)](https://dev.azure.com/190030155/Demo/_build/latest?definitionId=6&branchName=master)
+
 A real estate listings website built with `python` `django` `bootstrap`.
 
 A simple, reponsive  website. Built with:
